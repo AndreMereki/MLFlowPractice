@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DEaTH%20SToRM/Documents/GitHub/MLFlowPractice/mlruns/580606432042325666/a46a647f59e74a0485c4b85a7f6c8e3b/artifacts
+end_time: 1735334956095
+entry_point_name: ''
+experiment_id: '580606432042325666'
+lifecycle_stage: active
+run_id: a46a647f59e74a0485c4b85a7f6c8e3b
+run_name: nimble-seal-692
+run_uuid: a46a647f59e74a0485c4b85a7f6c8e3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735334956023
+status: 4
+tags: []
+user_id: DAndre

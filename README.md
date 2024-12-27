@@ -11,3 +11,13 @@ python -m venv .venv
 ```
  .venv\Scripts\activate.bat 
 ```
+
+### Connect to jupyter Notebook 
+```
+ipython kernel install --user --name=.mlflow
+```
+
+to launch mlflow server locally use 
+```
+mlflow ui
+```
