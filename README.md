@@ -1,13 +1,13 @@
 # MLFlowPractice
 
 
-# Windows 
-# You can also use 'py -3 -m venv .venv
+### Windows 
+ You can also use 'py -3 -m venv .venv
 ```
 python -m venv .venv
 ```
 
-# activation 
+### activation 
 ```
  .venv\Scripts\activate.bat 
 ```
