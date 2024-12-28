@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DEaTH%20SToRM/Documents/GitHub/MLFlowPractice/mlruns/804890674773640442/78c9d90b1661465684047917c72f32fd/artifacts
+end_time: 1735423754376
+entry_point_name: ''
+experiment_id: '804890674773640442'
+lifecycle_stage: active
+run_id: 78c9d90b1661465684047917c72f32fd
+run_name: Random Forest
+run_uuid: 78c9d90b1661465684047917c72f32fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735423754133
+status: 3
+tags: []
+user_id: DAndre

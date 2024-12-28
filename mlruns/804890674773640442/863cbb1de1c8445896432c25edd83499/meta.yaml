@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DEaTH%20SToRM/Documents/GitHub/MLFlowPractice/mlruns/804890674773640442/863cbb1de1c8445896432c25edd83499/artifacts
+end_time: 1735423754008
+entry_point_name: ''
+experiment_id: '804890674773640442'
+lifecycle_stage: active
+run_id: 863cbb1de1c8445896432c25edd83499
+run_name: Logistic Regression
+run_uuid: 863cbb1de1c8445896432c25edd83499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735423753830
+status: 3
+tags: []
+user_id: DAndre
